@@ -22,7 +22,7 @@
  - Select the appropriate service for a knowledge mining solution
 
 #### Plan, create and deploy an Azure AI service
- - Plan for a solution that meets Responsible AI principles
+ - ~~Plan for a solution that meets Responsible AI principles~~
  - Create an Azure AI resource
  - Determine a default endpoint for a service
  - Integrate Azure AI services into a continuous integration and continuous delivery (CI/CD) pipeline
